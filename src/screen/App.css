@@ -1,5 +1,11 @@
+
+body {
+  background-color: #282c34 !important;
+}
 .App {
-  text-align: center;
+  text-align: left;
+  color: white;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .App-logo {
