@@ -6,7 +6,7 @@ function TableModel({data}) {
   
   return (
     <>
-      <Table striped bordered hover variant='light' size='sm' id="domEl" ref="{domEl}">
+      <Table striped bordered hover variant='light' size='sm'>
         <thead>
           <tr>
             <th>{data[0].title}</th>
